@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "vercel-build": "npm install --legacy-peer-deps && npm run build"
+
   },
   "dependencies": {
     "@stripe/react-stripe-js": "^3.9.0",
