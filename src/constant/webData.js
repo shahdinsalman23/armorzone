@@ -46,7 +46,7 @@ const landingPageData = {
         subTitle: "welcome to our website",
         title: "Armor",
         spanTag: "zone",
-        paragraph: " Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled..",
+        paragraph: "Premium football helmets, pads, and accessories designed for ultimate protection, comfort, and performance on the field.",
         imageSlider: {
             imageOne: helmet,
             imageTwo: helmet,
@@ -60,8 +60,8 @@ const landingPageData = {
         subTitle: "About",
         title: "OUR",
         spanTag: "COMPANY",
-        firstParagraph: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
-        secondParagraph: "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        firstParagraph: "Armor Zone is dedicated to delivering premium-quality football gear that ensures safety, performance, and style on the field. From professional athletes to passionate beginners, we provide equipment that meets the highest standards of durability and comfort.",
+        secondParagraph: "Our commitment to excellence means working with trusted manufacturers, using advanced materials, and continuously innovating to give players the confidence they need to perform their best.",
         aboutCompany: AboutCompanyImg,
         helmetImg: AboutHelmet,
         guardIcon: AboutGuardIcon,
@@ -84,19 +84,19 @@ const landingPageData = {
             {
                 categoryImg: CategoryOneImg,
                 categoryTitle: "SHOULDER PADS",
-                categoryDescription: "Lorem Ipsum has been the industry's standard dummy text ever",
+                categoryDescription: "High-impact protection with maximum comfort for every play.",
                 arrowIcon: FaArrowRightLong,
             },
             {
                 categoryImg: CategoryTwoImg,
                 categoryTitle: "SHOULDER PADS",
-                categoryDescription: "Lorem Ipsum has been the industry's standard dummy text ever",
+                categoryDescription: "Engineered for safety, performance, and game-day confidence.",
                 arrowIcon: FaArrowRightLong,
             },
             {
                 categoryImg: CategoryThreeImg,
                 categoryTitle: "SHOULDER PADS",
-                categoryDescription: "Lorem Ipsum has been the industry's standard dummy text ever",
+                categoryDescription: "Durable designs for unmatched visibility and protection.",
                 arrowIcon: FaArrowRightLong,
             }
         ]
@@ -111,28 +111,28 @@ const landingPageData = {
             {
                 image: ProductOneImg,
                 title: "Riddell SpeedFlex",
-                prodDes: "Lorem Ipsum has been the industry's standard dummy text ever",
+                prodDes: "Advanced impact protection with superior comfort for game-day performance.",
                 price: "$280.00",
                 rating: 5,  
             },
             {
                 image: ProductTwoImg,
                 title: "VICIS ZERO 2",
-                prodDes: "Lorem Ipsum has been the industry's standard dummy text ever",
+                prodDes: "Elite-level helmet engineered for maximum safety and field vision.",
                 price: "$280.00",
                 rating: 5,  
             },
             {
                 image: ProductThreeImg,
                 title: "Riddell sPX Shoulder Pads",
-                prodDes: "Lorem Ipsum has been the industry's standard dummy text ever",
+                prodDes: "Lightweight yet durable pads for unmatched mobility and protection.",
                 price: "$280.00",
                 rating: 5,  
             },
             {
                 image: ProductFourImg,
                 title: "Adult Padded Football",
-                prodDes: "Lorem Ipsum has been the industry's standard dummy text ever",
+                prodDes: "High-quality padded football for comfort, grip, and lasting durability.",
                 price: "$280.00",
                 rating: 5,  
             },
@@ -179,7 +179,7 @@ const landingPageData = {
     customUniform: {
         subTitle: "Armor Zone.",
         title: "Custom Uniforms",
-        paragraph: "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+        paragraph: "At Armor Zone, we specialize in creating high-performance custom football uniforms designed to match your team’s identity and enhance player comfort on the field.",
         button: "learn more",
         image:  customUniform,
         imageTwo: customUniformbg,
@@ -194,13 +194,13 @@ const landingPageData = {
             {
                 image: clientOne,
                 rating: 5,
-                testimonial: "“Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown”",
+                testimonial: "“Armor Zone’s gear completely changed the way I play — the helmets are lightweight, comfortable, and built for serious protection. The quality to detail show in every game I’ve played.”",
                 client: "- Alex",
             },
             {
                 image: clientTwo,
                 rating: 5,
-                testimonial: "“Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown”",
+                testimonial: "“I’ve tried different brands, but nothing matches the durability and comfort of Armor Zone products. From ordering to delivery, the process was smooth and the results exceeded my expectations.”",
                 client: "- Stephen",
             }
         ]

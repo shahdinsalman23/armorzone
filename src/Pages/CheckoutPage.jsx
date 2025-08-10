@@ -95,9 +95,9 @@ const CheckoutPage = () => {
                                         </div>
                                     </Form.Group>
 
-                                    <Button variant="primary" type="submit" className="mt-3" disabled={isProcessing}>
+                                    <button type="submit" className="pay-btn" disabled={isProcessing}>
                                         {isProcessing ? "Processing..." : `Pay $${getCartTotal().toFixed(2)}`}
-                                    </Button>
+                                    </button>
                                 </Form>
                             </div>
                         </Col>

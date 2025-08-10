@@ -1733,6 +1733,26 @@ section.sign-up-sec {
   font-family: 'Poppins';
 }
 
+.pay-btn {
+    background: #D01118;
+    color: #fff;
+    padding: 8px 15px;
+    border: 1px solid #D01118;
+    border-radius: 7px;
+    font-family: 'Maven Pro';
+    margin: 20px 0px 0px 0px;
+    transition: all .6s ease;
+}
+
+.pay-btn:hover {
+    background: transparent;
+    color: #D01118;
+}
+
+.pay-btn:focus {
+    outline: none;
+}
+
 
 /************ Checkout Page CSS End **************/
 

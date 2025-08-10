@@ -48,7 +48,7 @@ const CartSidebar = ({ isOpen, onClose }) => {
           <span>Total Cost:</span>
           <span>${getCartTotal()}</span>
         </div>
-        <Link to="/checkout" className="checkout-btn">Checkout</Link>
+        <Link to="/checkout"  onClick={onClose} className="checkout-btn">Checkout</Link>
       </div>
     </div>
   );

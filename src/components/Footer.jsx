@@ -13,7 +13,7 @@ const Footer = () => {
             <Col lg={4} md={6}>
               <div className="footer-logo">
                 <img src={footerlogo} alt="" />
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                <p>Your trusted destination for premium football helmets, pads, facemasks, and accessories — built for safety, performance, and style on the field.</p>
                 <ul>
                   <li><Link to=""><FaFacebookSquare /></Link></li>
                   <li><Link to=""><FaInstagram /></Link></li>

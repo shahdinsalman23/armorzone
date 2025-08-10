@@ -23,8 +23,8 @@ const AboutOurCompany = ({ aboutSection }) => {
                             <img src={aboutSection.guardIcon} alt="" />
                             <h5>{aboutSection.AboutHead}</h5>
                             <h2>{aboutSection.AboutCompanyHead} <span>{aboutSection.AboutCompanySpan}</span></h2>
-                            <p>{aboutSection.CompanyParaOne}</p>
-                            <p>{aboutSection.CompanyParaTwo}</p>
+                            <p>{aboutSection.firstParagraph}</p>
+                            <p>{aboutSection.secondParagraph}</p>
                             <Link to="" className='theme-btn'>{aboutSection.button}</Link>
                         </div>
                     </Col>
