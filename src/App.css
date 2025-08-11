@@ -239,7 +239,6 @@ form.search-form {
   height: 100%;
   background: #fff;
   z-index: 9999;
-  padding: 20px;
   transition: left 0.3s ease-in-out;
 }
 
@@ -248,9 +247,11 @@ form.search-form {
 }
 
 .mobile-menu-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #00000014;
 }
 
 .mobile-menu ul {
@@ -260,14 +261,24 @@ form.search-form {
 }
 
 .mobile-menu ul li {
-  margin-bottom: 15px;
+    padding: 10px;
+    transition: all .6s ease;
 }
 
 .mobile-menu ul li a {
-  text-decoration: none;
-  font-size: 18px;
-  color: #000;
-  font-family: 'Poppins';
+    text-decoration: none;
+    font-size: 18px;
+    color: #000;
+    font-family: 'Maven Pro';
+    transition: all .6s ease;
+}
+
+.mobile-menu ul li:hover {
+    background: #D01018;
+}
+
+.mobile-menu ul li:hover a {
+    color: #fff;
 }
 
 .hamburger-btn {

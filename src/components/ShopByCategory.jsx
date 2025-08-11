@@ -12,8 +12,8 @@ const ShopByCategory = ({ shopByCategory }) => {
         slidesToShow: 3,
         arrows: false,
         autoplay: true,
-        speed: 1000,
-        autoplaySpeed: 1000,
+        speed: 2000,
+        autoplaySpeed: 2000,
         cssEase: "ease-in-out",
           responsive: [
             {
