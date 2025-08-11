@@ -1,44 +1,44 @@
 # ArmorZone 🛡️
 
-A fully functional e-commerce website built with **React.js** (installed via Vite) showcasing premium football helmets, pads, and accessories.  
-The project includes **Google authentication** (Firebase), **Stripe payment integration**, and **Context API** for state management (Add to Cart, Checkout, etc.).
+A fully functional e-commerce website for premium football helmets, pads, and accessories — built with **React.js** (via Vite), featuring **Firebase Authentication**, **Stripe Payments**, and **Context API** for complete cart and checkout functionality.
 
 ---
 
-## 🚀 Live Demo
-[**View Live Website**](https://armorzone.vercel.app/)
+## 🔗 Live Demo & Repository
+[![Live Site](https://img.shields.io/badge/Live_Site-Visit_Now-blue)](https://armorzone.vercel.app/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub_Repo-View_Code-black)](https://github.com/shahdinsalman23/armorzone)
 
-## 📂 Repository
-[**GitHub Repo**](https://github.com/shahdinsalman23/armorzone)
+---
+
+## 📛 Badges
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-Build-brightgreen)
+![Firebase](https://img.shields.io/badge/Firebase-Auth-orange)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-blueviolet)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Status](https://img.shields.io/badge/Status-Complete-success)
 
 ---
 
 ## ✨ Features
-- 🔐 **Firebase Authentication** (Sign in with Google)
-- 💳 **Stripe Payment Gateway**
-- 🛒 **Context API** for cart and checkout functionality
-- ⚡ **Vite** for blazing fast development and build
-- 🎨 Responsive & modern UI
-- 📦 Fully functional front-end e-commerce flow
+- 🔐 **Google Sign-in Authentication** (Firebase)
+- 💳 **Secure Stripe Payment Integration**
+- 🛒 **Add to Cart & Checkout** with Context API
+- ⚡ **Fast Build & Development** using Vite
+- 📱 Fully **Responsive** modern UI
 
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Vite
-- **State Management:** Context API
-- **Authentication:** Firebase
-- **Payments:** Stripe
-- **Styling:** CSS / Tailwind CSS (if applicable)
 
----
-
-## 📸 Screenshots
-
-### Homepage
-![Homepage Screenshot](https://via.placeholder.com/900x500?text=Homepage+Screenshot)
-
-### Product Page
-![Product Screenshot](https://via.placeholder.com/900x500?text=Product+Page+Screenshot)
+| Technology  | Purpose             |
+|-------------|--------------------|
+| React.js    | Frontend Framework |
+| Vite        | Build Tool         |
+| Firebase    | Authentication     |
+| Stripe      | Payment Gateway    |
+| Context API | State Management   |
+| CSS/Tailwind| Styling (if used)  |
 
 ---
 
