@@ -38,7 +38,7 @@ A fully functional e-commerce website for premium football helmets, pads, and ac
 | Firebase    | Authentication     |
 | Stripe      | Payment Gateway    |
 | Context API | State Management   |
-| CSS/Tailwind| Styling (if used)  |
+| CSS         | Styling            |
 
 ---
 
